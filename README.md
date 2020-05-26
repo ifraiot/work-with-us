@@ -6,11 +6,12 @@
 ## พัฒนาซอฟต์แวร์
 - พัฒนาซอฟต์แวร์ด้านไอโอทีและซอฟต์แวร์ที่เกี่ยวข้อง
 - วิเคราะห์ความต้องการลูกค้าและออกแบบซอฟต์แวร์
-- พัฒนา API, SDK, Firmware ด้วยภาษา Go, Javascript, C++
+- พัฒนา API, SDK, Firmware ด้วยภาษา Go, Javascript, C++ อย่างน้อย 1-2 ภาษา
+- พัฒนา Font-End Framework Angular, Vue, React, NodeJS เบื้องต้นได้
 - เขียน Unit Test เพื่อทดสอบฟังก์ชันงานที่ได้พัฒนา
-- สามารถใช้งาน container tools ได้ เช่น Docker, K8S
-- CI/CD Setup กับ Gitlab, Jenkins, Sonarqube , JMeter
-- Cloud Service AWS, EKS, EC2, S3
+- มีความรู้เบื้องต้นในการใช้งาน Container tools ได้ เช่น Docker, K8S
+- มีความรู้เบื้องต้นในการใช้งาน CI/CD Setup กับ Gitlab, Jenkins, Sonarqube , JMeter
+- มีความรู้เบื้องต้นในการใช้งาน Cloud Service AWS, EKS, EC2, S3
 
 ## ทักษะที่จะได้ จากการร่วมงานกับเรา
 - IoT Platform Technologies
