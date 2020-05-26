@@ -48,7 +48,8 @@
    
    
    
- 
-ชื่อผู้ติดต่อ : คุณอาร์ต
-#โทรศัพท์ : 085-013-1974
-โฮมเพจ : https://www.ifrasoft.com , https://ifra.io
+ติดต่อ
+- ชื่อผู้ติดต่อ : คุณอาร์ต
+- โทรศัพท์ : 085-013-1974 
+-  อีเมล: nattaponra@ifrasoft.com
+- โฮมเพจ : https://www.ifrasoft.com , https://ifra.io
