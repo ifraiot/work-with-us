@@ -43,7 +43,7 @@
   
   
   
-   [![Alt text](https://sn3301files.storage.live.com/y4phmUrFUfQv1Pnzlg5N0x0g3pfruIHmdS8ubSvun06ZtVqOJGEKNRhm6NvYDcJxGWbEptIBxvrYomb_BOqeM58SG_LBS23l_yG_Z7fGPsQta6uyyhHVebI0do_jwZaUK8tiuAdXhRkEIwqbPgKz-eLyVAkU68IB2ocrIP9VCAOgfCstX0QvoxRLtthx8uQrVkI5BBG9xL89sRlya2ldfUfB-cR6CfWThdUE8zBAiO2_Zo/bg.jpg?psid=1&width=304&height=251)](https://www.youtube.com/watch?v=lZU9m1K04ok)
+   [![Alt text](https://i.ibb.co/485JvXN/bg-4.jpg)](https://www.youtube.com/watch?v=lZU9m1K04ok)
    
    
    
