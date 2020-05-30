@@ -13,6 +13,9 @@
 - มีความรู้เบื้องต้นในการใช้งาน CI/CD Setup กับ Gitlab, Jenkins, Sonarqube , JMeter
 - มีความรู้เบื้องต้นในการใช้งาน Cloud Service AWS, EKS, EC2, S3
 
+## ตัวอย่างลูกค้าของเรา
+- AIS / บางจาก / CPF 
+
 ## ทักษะที่จะได้ จากการร่วมงานกับเรา
 - IoT Platform Technologies
 - Docker, Kubernetes, Helm, Jenkins
